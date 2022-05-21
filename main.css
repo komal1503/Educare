@@ -21,12 +21,14 @@ header{
     display: flex;
     justify-content: flex-end;
     align-items: center;
-    padding: 30px 10%;
+    padding: 0px 10%;
 }
 
-.logo{
+img.logo{
     cursor: pointer;
     margin-right: auto;
+    max-width:10%;
+    height:auto;
 }
 
 .nav_links{
