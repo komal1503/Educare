@@ -1,6 +1,19 @@
 # Educare
 https://master--educaretech.netlify.app/
 
+
+![home](https://user-images.githubusercontent.com/76110970/169700471-3f607c2d-5b80-49fc-871a-9724e339da17.png)
+
+
+
+### Project video:
+https://youtu.be/Gh--VYiLM88
+
+### Presentation slides:
+
+https://drive.google.com/file/d/1I68oIBmR2AiXJBGjPzNlIHHmu0D7wY_F/view?usp=sharing
+
+
 ## PROJECT IDEA
 
 My project track is "Education" . It is a
