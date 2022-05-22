@@ -130,7 +130,7 @@ div.mane{
 }
 
 .main{
-    background color: rgb(0,0,0,0.5);
+    background-color: rgb(0,0,0,0.5);
     width: 800px;
     margin:auto;
 }
