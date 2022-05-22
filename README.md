@@ -59,4 +59,10 @@ has feature of text to speech and speech to text for them too.
 
 HTML,CSS,JavaScript and APIs
 
+## What's next for Minare
+
+I am planning to add a novel or magazine page as reading is a good habit to improve your understanding and will affect your over all development. 
+
+I am also thinking to add a blog page too so that the students who benefitted from this website will about  their experience and motivate others.
+
 
