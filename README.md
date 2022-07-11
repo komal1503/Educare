@@ -59,7 +59,7 @@ has feature of text to speech and speech to text for them too.
 
 HTML,CSS,JavaScript and APIs
 
-## What's next for Minare
+## What's next for Educare
 
 I am planning to add a novel or magazine page as reading is a good habit to improve your understanding and will affect your over all development. 
 
